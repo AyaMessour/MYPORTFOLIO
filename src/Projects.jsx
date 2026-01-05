@@ -82,7 +82,7 @@ export default function Projects() {
       technologies: ["Node.js", "Express", "JWT", "MongoDB", "Docker", "Kubernetes"],
       githubUrl: "https://github.com",
       hasLiveDemo: true,
-      liveUrl: "ayaslistodo.netlify.app",
+      liveUrl: "https://ayaslistodo.netlify.app/",
       category: "frontend",
       featured: false,
       year: "2025"
